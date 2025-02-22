@@ -2,9 +2,10 @@
 
 ## 🎓Educations & Experiences
 2024.01 ~ 2024.12   삼성청년 SW 아카데미(SSAFY) 11기 이수
-<br/>
 
 </div>
+
+<br/>
 
 <div align="center">
   
