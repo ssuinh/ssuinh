@@ -1,14 +1,3 @@
-
-<div align="center">
-
-<!--## Jinwoo's Github Stats-->
-There is no paradise where you run away - **GUTS**
-
-<!-- <a href="https://github.com/yasisicoco"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yasisicoco&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a> 
-<br/>-->
-
-</div>
-
 <div align="center">
 
 ## 🎓Educations & Experiences
@@ -31,8 +20,9 @@ There is no paradise where you run away - **GUTS**
 <br/>
 
 <div align="center">
+  
 ## 🏆Awards
-- 2024.08 삼성청년 SW 아카데미 공통 프로젝트 우수상 
+2024.08 삼성청년 SW 아카데미 공통 프로젝트 우수상 
 </div>
 <br/>
 <div align="center">
